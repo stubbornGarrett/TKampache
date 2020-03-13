@@ -7,6 +7,7 @@
 - Display cover art of current title
 - Play
 - Next/Previous (in list)
+- Control volume
 - Refresh song list
 - Disconnect properly
 
