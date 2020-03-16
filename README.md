@@ -12,7 +12,7 @@
 - Disconnect properly
 
 ## What's missing
-Everything else. This application was a test for the python API of Ampatche
+Everything else. This application was a test for the python API of Ampache
 
 ## Dependencies 
 - python3-ampache
